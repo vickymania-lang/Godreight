@@ -416,7 +416,7 @@ header
 
 .sub-header {
 
-  background-color: #fd0002;
+  background-color: #ffff93;
 
   position: relative;
 
@@ -428,7 +428,7 @@ header
 
 .sub-header .left-content li i {
 
-  color: #fff;
+  color: #000;
 
   padding: 8px 0px;
 
@@ -460,7 +460,7 @@ header
 
 .sub-header .right-icons ul li a {
 
-  color: #fff;
+  color: #000;
 
   font-size: 14px;
 
